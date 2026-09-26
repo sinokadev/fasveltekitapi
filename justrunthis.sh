@@ -87,4 +87,6 @@ git commit -m "init"
 
 trap 'kill $(jobs -p)' EXIT
 
+echo "ctrl + c to stop server"
+
 wait
