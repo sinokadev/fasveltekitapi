@@ -2,6 +2,10 @@
 
 uv + fastapi + pnpm + sveltekit + git repo auto create script
 
+```bash
+curl -sL sinoka.dev/fasveltekitapi.sh | bash
+```
+
 ## what it does
 
 this script scaffolds a full-stack project in one go:
